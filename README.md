@@ -18,12 +18,12 @@ for knowing the overall analytics of TV shows and Movies  based on filters like 
 
 ![image alt](https://github.com/girishvalluri192/Netflix_Data_Analysis/blob/main/Home_Page.png)
 
-for knowing the overall analytics of TV shows   based on filters like DropDown and Tabular Detailed View
+for knowing the overall analytics of TV shows   based on filters WorldMap , Bar Graph , Area Graph
 
 
 ![image alt](https://github.com/girishvalluri192/Netflix_Data_Analysis/blob/main/TV_Shows_Page.png)
 
-for knowing the overall analytics of Movies  based on filters 
+for knowing the overall analytics of Movies  based on filters like DropDown and Tabular Detailed View
 
 
 ![image alt](https://github.com/girishvalluri192/Netflix_Data_Analysis/blob/main/Movies_Page.png)
