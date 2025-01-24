@@ -15,7 +15,7 @@ Netflix is a popular streaming service that offers a vast catalog of movies, TV 
 
 for knowing the overall analytics of TV shows and Movies  based on filters like Genres , Release Year using Donut Chart , Bar Graph , World Map , Area Chart
 
-The Count of Total Shows Released :  8800
+The Count of Total TVShows & Movies Released :  8800
 
 The Count of Total Directors are :  4527
 
@@ -50,12 +50,19 @@ Refresh Button is useful for clearing all filters and view the Unfiltered visual
 
 ### Insights Drawn from TV Shows Page of DashBoard
 
-for knowing the overall analytics of TV shows   based on filters WorldMap , Bar Graph , Area Graph
+for knowing the overall analytics of TV shows   based on filters WorldMap , Bar Graph , Area Graph we can use this page of the dashboard
 
+Total count TV Shows : 2675
 
+Total count of Directors : 223
 
+Total count of Genres : 17
 
+Total release in Locations : 196
 
+Release of Tv Shows started in Year : 2008
+
+Release of Tv Shows ended in  Year : 2021
 
 
 
@@ -66,12 +73,19 @@ for knowing the overall analytics of TV shows   based on filters WorldMap , Bar 
 
 for knowing the overall analytics of Movies  based on filters like DropDown and Tabular Detailed View
 
+Total count Movie Releases : 6126
 
+Total count of Directors : 4352
 
+Total count of Genres : 20
 
+Total release in Locations : 652
 
+Release of Tv Shows started in Year : 2008
 
+Release of Tv Shows ended in  Year : 2021
 
+Created a tabular visual to know the indetail feturistic information of each and every movie released
 
 ![image alt](https://github.com/girishvalluri192/Netflix_Data_Analysis/blob/main/Movies_Page.png)
 
