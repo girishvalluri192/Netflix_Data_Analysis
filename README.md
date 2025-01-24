@@ -38,23 +38,39 @@ Ratings from shows show that TV - MA has highest ratings
 
 Genre by shows Visual shows that Dramas , Comedies , Actions are most played compared to Horror , Thrillers
 
+Created Buttons for navigation through pages Home , TV Shows , Movies , Refresh
+
+Refresh Button is useful for clearing all filters and view the Unfiltered visualization from the dashboard
 
 
 
 ![image alt](https://github.com/girishvalluri192/Netflix_Data_Analysis/blob/main/Home_Page.png)
 
 
-### TV Shows
 
+### Insights Drawn from TV Shows Page of DashBoard
 
 for knowing the overall analytics of TV shows   based on filters WorldMap , Bar Graph , Area Graph
 
+
+
+
+
+
+
+
 ![image alt](https://github.com/girishvalluri192/Netflix_Data_Analysis/blob/main/TV_Shows_Page.png)
 
-### Movies
 
+### Insights Drawn from Movies Page of DashBoard
 
 for knowing the overall analytics of Movies  based on filters like DropDown and Tabular Detailed View
+
+
+
+
+
+
 
 
 ![image alt](https://github.com/girishvalluri192/Netflix_Data_Analysis/blob/main/Movies_Page.png)
